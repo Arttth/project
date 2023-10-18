@@ -6,3 +6,5 @@ This is awesome project.
 ## Auhtor
 
 [Auhtor](auhtor.md)
+
+## Some new section here
