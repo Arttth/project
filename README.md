@@ -6,3 +6,4 @@ This is awesome project.
 ## Auhtor
 
 [Auhtor](auhtor.md)
+## Conflict
