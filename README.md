@@ -6,5 +6,9 @@ This is awesome project.
 ## Auhtor
 
 [Auhtor](auhtor.md)
+<<<<<<< HEAD
 
 ## Some new section here
+=======
+## Conflict
+>>>>>>> conflict
